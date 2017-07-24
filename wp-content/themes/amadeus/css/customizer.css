@@ -12,7 +12,7 @@
 .accordion-section h3::before {
 	float: center;
 	margin-right: 5px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Fontawesome;
 	content: "\f10c";
 }
