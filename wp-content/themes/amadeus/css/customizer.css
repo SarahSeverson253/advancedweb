@@ -10,7 +10,7 @@
 }
 
 .accordion-section h3::before {
-	float: left;
+	float: center;
 	margin-right: 5px;
 	color: #FFFFFF;
 	font-family: Fontawesome;
